@@ -87,7 +87,5 @@ This section showcases the application's interface. These examples help visualiz
 | **📝 Scramble & Solution** | ![image alt](https://github.com/jetsu03/Rubiks-cube-solver/blob/main/Main_screen.jpg?raw=true) |
 
 ### Demo Video
-
 A brief video demonstrating the web interface in action.
-
-`[Link to your demo video or embed a GIF here]`
+https://github.com/user-attachments/assets/8e2e3b3d-2ec5-44c3-a8bc-9c38bb9d9ab9
