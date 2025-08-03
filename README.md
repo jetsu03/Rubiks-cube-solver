@@ -88,4 +88,5 @@ This section showcases the application's interface. These examples help visualiz
 
 ### Demo Video
 A brief video demonstrating the web interface in action.
+
 https://github.com/user-attachments/assets/8e2e3b3d-2ec5-44c3-a8bc-9c38bb9d9ab9
