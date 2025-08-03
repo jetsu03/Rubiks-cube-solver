@@ -83,8 +83,8 @@ This section showcases the application's interface. These examples help visualiz
 
 | Type                      | Screenshot                                       |
 | :------------------------ | :----------------------------------------------- |
-| **🎨 CLI Interface** | `![Main UI](path/to/your/screenshot.png)`        |
-| **📝 Scramble & Solution** | ![image alt](https://github.com/jetsu03/Rubiks-cube-solver/blob/main/image.png?raw=true) |
+| **🎨 CLI Interface** | `![image alt](https://github.com/jetsu03/Rubiks-cube-solver/blob/main/CLI.jpg?raw=true)`        |
+| **📝 Scramble & Solution** | `![image alt](https://github.com/jetsu03/Rubiks-cube-solver/blob/main/Main_screen.jpg?raw=true)` |
 
 ### Demo Video
 
